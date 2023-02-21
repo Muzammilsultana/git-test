@@ -1,0 +1,89 @@
+body{
+  overflow-x:hidden;
+font-family:'lato' sans-serif;
+color:#505962;
+}
+.video-background
+{
+position:relative;
+background-color: rbga(0,0,0,0.2);
+height:75vh;
+overflow:hidden;
+
+}
+.caption
+{
+  position:absolute;
+  top:20%;
+  width:100%;
+  color:white;
+  margin-top: 50px;
+  text-align: center;
+  font-size:30px;
+ 
+}
+
+.padbtn
+{
+  padding: 20px 20px;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.mrgnright
+{
+  margin-left: 20px;
+}
+.para
+{
+  margin-top:50px;
+width:60%;
+margin-left:250px;
+text-align:centre;
+bottom:40px;
+font-size:20px;
+
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.container{
+  padding:5%;
+}
+  .tp{
+    position:absolute;
+    top:400px;
+    width:100%;
+    color:white;
+  
+    text-align: center;
+  
+    font-size:30px
+}
+
+.fig
+{
+  color:green;
+  margin-bottom: 80%;
+  
+}
+.searchbtn
+{
+margin-top:-20px;
+}
+
+#container{
+  padding:2% !important;
+}
+
+#bgvid{
+  width: 100%;
+}
